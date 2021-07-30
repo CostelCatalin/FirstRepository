@@ -1,6 +1,7 @@
 package com.test;
 
 public class testPushIt {
+<<<<<<< HEAD
 
 //	Step1:	go in cmd
 //	Step2:	get project path
@@ -16,4 +17,7 @@ public class testPushIt {
 	
 	
 	
+=======
+// this file it is from Git
+>>>>>>> 71c56595eddb59e202828cf9c41757859c420e7a
 }
